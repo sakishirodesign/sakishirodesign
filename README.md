@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimovfazil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alimovfazil" /> </p>
 
-- 🔭 I’m currently working on **Freelance**
-
-- 🌱 I’m currently return **Desginer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ali_mov_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali_mov_f" height="30" width="40" /></a>
