@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimovfazil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alimovfazil" /> </p>
 
-- 🔭 I’m currently working on **I am not working at the moment**
+- 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently return **Developer**
+- 🌱 I’m currently return **Desginer**
 
 - 💬 Ask me about **react next**
 
