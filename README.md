@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapercave.com/wp/wp7528490.jpg)](https://github.com/Alimovfazil)
 <h1 align="center">Hi 👋, I'm Alimov Fazil</h1>
-<h3 align="center">A passionate UX/UI & Graphic designer & Developer from Uzbekistan</h3>
+<h3 align="center">A passionate UX/UI & Graphic designer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://animegifwallpaper.com/wp-content/uploads/2023/05/Anime-GIF-Wallpaper-4k.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimovfazil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alimovfazil" /> </p>
@@ -8,10 +8,6 @@
 - 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently return **Desginer**
-
-- 💬 Ask me about **react next**
-
-- 📫 How to reach me **alimovf2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
